@@ -1,2 +1,2 @@
 # Deep_Learning_Project
-Deep Learning Project - Music Generation
+Music and Deep Learning: Music Generation using LSTMs and an Investigation of the Acoustic Similarity between Music and Speech
