@@ -1,0 +1,8 @@
+The Dataset used for Music Genre Classification is: GTZAN Dataset
+
+Since the dataset is too large to load here, kaggle link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+We are using two folders in this dataset: 
+
+ - image_originals (10 directories with 100 files each)
+ - genre_originals (10 directories with 100 files each)
