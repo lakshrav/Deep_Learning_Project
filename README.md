@@ -1,4 +1,4 @@
-# Music and Deep Learning: Music Generation using LSTMs, Music Genre Classification using Transfer Learning and an Investigation of the Acoustic Similarity between Music and Speech
+# Music and Deep Learning: Music Generation using LSTMs and Music Genre Classification of the Generated Music using Convolutional Neural Networks
 
 CS6005 Deep Learning
 
